@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "Quel est le plus grand océan du monde ?",
+            "choices": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+            "correct": 3
+        },
+        {
+            "question": "Quel est le nom du célèbre tableau peint par Léonard de Vinci, représentant une femme avec un sourire mystérieux ?",
+            "choices": ["La Naissance de Vénus", "La Cène", "Le Radeau de la Méduse", "La Joconde"],
+            "correct": 3
+        },
+        {
+            "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+            "choices": ["1965", "1969", "1971", "1973"],
+            "correct": 1
+        },
+        {
+            "question": "Qui a écrit 'Les Misérables' ?",
+            "choices": ["Emile Zola", "Gustave Flaubert", "Victor Hugo", "Marcel Proust"],
+            "correct": 2
+        },
+        {
+            "question": "Quel pays est surnommé 'le Pays du Soleil Levant' ?",
+            "choices": ["Chine", "Japon", "Corée du Sud", "Thaïlande"],
+            "correct": 1
+        },
+        {
+            "question": "Quel est le plus grand désert du monde ?",
+            "choices": ["Le Sahara", "Le Gobi", "L'Antarctique", "Le Kalahari"],
+            "correct": 2
+        },
+        {
+            "question": "Quel est le nom du personnage principal du roman '1984' de George Orwell ?",
+            "choices": ["Winston Smith", "Howard Roark", "Jay Gatsby", "Katniss Everdeen"],
+            "correct": 0
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "choices": ["Sydney", "Melbourne", "Canberra", "Perth"],
+            "correct": 2
+        },
+        {
+            "question": "Dans quel film se trouve la fameuse phrase 'Que la Force soit avec toi' ?",
+            "choices": ["Star Wars", "Harry Potter", "Le Seigneur des Anneaux", "Indiana Jones"],
+            "correct": 0
+        },
+        {
+            "question": "Qui a peint la 'Nuit étoilée' ?",
+            "choices": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Henri Matisse"],
+            "correct": 1
+        }
+    ]
+}
