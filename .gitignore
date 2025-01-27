@@ -17,6 +17,3 @@ results.json
 # Ignorer les fichiers système
 .DS_Store
 Thumbs.db
-
-# Ignorer les fichiers ._
-._*
