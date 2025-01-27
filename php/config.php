@@ -20,3 +20,4 @@ function getDbConnection() {
         return null;
     }
 }
+

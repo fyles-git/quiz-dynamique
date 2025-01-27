@@ -24,3 +24,4 @@ INSERT INTO questions (question, choices, correct) VALUES
 ('Qui a peint la Joconde ?', '["Léonard de Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"]', 0),
 ('Quelle est la planète la plus proche du Soleil ?', '["Mercure", "Vénus", "Mars", "Jupiter"]', 0),
 ('En quelle année a eu lieu la Révolution française ?', '["1789", "1799", "1769", "1779"]', 0);
+
