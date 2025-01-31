@@ -35,3 +35,4 @@ Ce projet vise à renforcer mes compétences en développement web, en particuli
 Clonez ce dépôt sur votre machine locale :
    ```bash
    git clone https://github.com/fyles-git/quiz-dynamique.git
+
